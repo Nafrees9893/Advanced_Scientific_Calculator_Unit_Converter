@@ -34,11 +34,7 @@ This project integrates scientific computation, unit conversion, and temperature
 - *IDE:* Visual Studio  
 - *Interface:* MDI (Multiple Document Interface)  
 
----
 
-## 📁 Project Structure
-
----
 
 ## ▶ How to Run
 
