@@ -64,8 +64,8 @@ This project integrates scientific computation, unit conversion, and temperature
 
 ## 👩‍💻 Author
 
-*Fathima Shirafa*  
-BBST (Hons) in Agricultural Technology, University of Colombo  
+*Aarif M Nafrees*  
+  
 📧 [Your Email Here]  
 🌐 [LinkedIn Profile](#) | [GitHub Profile](#)
 
