@@ -67,7 +67,7 @@ This project integrates scientific computation, unit conversion, and temperature
 *Aarif M Nafrees*  
   
 📧 [Your Email Here]  
-🌐 [[LinkedIn Profile](https://www.linkedin.com/in/aarif-m-nafrees/)](#) | [GitHub Profile](https://github.com/nafrees9893)
+🌐 [[LinkedIn Profile](https://www.linkedin.com/in/aarif-m-nafrees/)] | [GitHub Profile](https://github.com/nafrees9893)]
 
 ---
 
